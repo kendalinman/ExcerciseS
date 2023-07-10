@@ -4,4 +4,3 @@ food: 400
 clothing: 180
 car payment: 500
 misc: 150
-
